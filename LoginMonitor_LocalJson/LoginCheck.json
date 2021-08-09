@@ -1,0 +1,12 @@
+[
+    {
+        "status": true,
+        "msg": "Login Success",
+        "data": [
+            {
+                "login_id": "1",
+                "emp_code": "EMP0001"
+            }
+        ]
+    }
+]

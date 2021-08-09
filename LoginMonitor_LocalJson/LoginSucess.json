@@ -1,0 +1,12 @@
+[
+{
+    "status": true,
+    "msg": "Check In Successfully",
+    "data": [
+        {
+            "emp_code": "EMP0001",
+            "checkin": "12:00:00"
+        }
+    ]
+}
+]

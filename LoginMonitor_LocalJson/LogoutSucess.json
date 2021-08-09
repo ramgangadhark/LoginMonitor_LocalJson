@@ -1,0 +1,12 @@
+[
+    {
+        "status": true,
+        "msg": "Check Out Successfully",
+        "data": [
+            {
+                "emp_code": "EMP0001",
+                "checkout": "12:99:99"
+            }
+        ]
+    }
+]
